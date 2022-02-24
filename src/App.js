@@ -9,6 +9,7 @@ export default function App() {
             <Navbar />
             <About />
             <Projects />
+            <Skills />
             <Contact />
         </main>
     );
