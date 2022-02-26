@@ -26,12 +26,11 @@ export default function Project() {
                                     {project.title}
                                 </h1>
                                 <p>{project.description}</p>
-                            </div>
-                
-
-                        </a>)}
+                            </div>                
+                        </a>
+                    )}
                 </div>
             </div>
         </section>
-    )
+    );
 }
