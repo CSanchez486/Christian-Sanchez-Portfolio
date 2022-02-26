@@ -1,4 +1,4 @@
-export counts projects = [
+export const projects = [
     {
         title: "Placeholder",
         subtitle: "Placeholder",
