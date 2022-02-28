@@ -1,4 +1,3 @@
-export default projects
 
 const projects = [
     {
@@ -30,3 +29,5 @@ const projects = [
         link: "https://github.com/CSanchez486/edit-that-text",
     },
 ];
+
+export default projects
