@@ -30,4 +30,25 @@ const projects = [
     },
 ];
 
-export default projects
+const skill = [
+    {
+        skill: "JavaScript",
+    },
+    {
+        skill: "Node.js",
+    },
+    {
+        skill: "GraphQL",
+    },
+    {
+        skill: "React",
+    },
+    {
+        skill: "MongoDb",
+    },
+    {
+        skill: "Express.js",
+    }
+]
+
+export default projects; skills
