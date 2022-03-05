@@ -30,7 +30,7 @@ const projects = [
     },
 ];
 
-const skill = [
+const skills = [
     {
         skill: "JavaScript",
     },
@@ -49,6 +49,7 @@ const skill = [
     {
         skill: "Express.js",
     }
-]
+];
 
-export default projects; skills
+export default projects;
+export { skills };
