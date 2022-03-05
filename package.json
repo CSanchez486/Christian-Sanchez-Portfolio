@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@heroicons/react": "^1.0.5"
+    "@heroicons/react": "^1.0.5",
+    "netlify-cli": "^9.12.3"
   }
 }
